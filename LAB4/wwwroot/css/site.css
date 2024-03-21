@@ -20,3 +20,25 @@ html {
 body {
   margin-bottom: 60px;
 }
+#result {
+  display: none; /* Başlangıçta formu gizle */
+}
+
+.resultBox {
+  padding:10px;
+  background-color: rgba(128, 255, 0, 0.311); /* Yeşil renk */
+  display: inline-block; /* Yatay hizalama için */
+  border-radius: 8px; /* Köşeleri yuvarlamak için */
+  margin-bottom: 100px; /* Alt boşluk */
+  color: green;
+  text-align: center;
+  bottom: 10px; /* Sayfanın alt kenarından 10px yukarıda */
+  left: 50%; /* Sayfanın ortasında */
+
+  width: 200px; /* Genişlik */
+  height: 100px;
+}
+#hidden input,
+#hidden button {
+  margin-bottom: 10px; /* Her giriş alanı ve buton arasına 10px boşluk ekler */
+}

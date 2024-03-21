@@ -3,16 +3,37 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<br>
+<br>
+<button onclick="buton()"> First button</button>
+<br>
+<br>
+<button onclick="buton2()"> form</button>
+<br>
+<br>
+ <form id="hidden" onsubmit="return calculateSum()">
+    <h1>Addition Form</h1>
+    <input type="number" id="input1" placeholder="Enter number">
+    <br>
+    <input type="number" id="input2" placeholder="Enter number">
+    <br>
+    <button >Calculate Sum</button>
+    <br>
+    <div  id="result" style="block" class="resultBox"></div>
+  </form>
 
-
+   
+   
+  
 <main>
+
   <h1 class="visually-hidden">Headers examples</h1>
 
   <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
       <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
         <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
-        <span class="fs-4">jAHREİN</span>
+        <span id="myDIV" class="fs-4">jAHREİN</span>
       </a>
 
       <ul class="nav nav-pills">
@@ -270,4 +291,7 @@
 
   <div class="b-example-divider"></div>
 </main>
+
+
+
 

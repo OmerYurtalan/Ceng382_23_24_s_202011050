@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj": {}
+    "c:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj": {
+    "c:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj",
+        "projectUniqueName": "c:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj",
         "projectName": "LAB4",
-        "projectPath": "C:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj",
+        "projectPath": "c:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\LAB4.csproj",
         "packagesPath": "C:\\Users\\Nida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\obj\\",
+        "outputPath": "c:\\Users\\Nida\\Desktop\\382 proje\\Ceng382_23_24_s_202011050\\LAB4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nida\\AppData\\Roaming\\NuGet\\NuGet.Config",
